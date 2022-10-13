@@ -4,6 +4,8 @@
 # Books
 * Fichtner & Lowrie: Fundamentals of Geophysics
 * Knödel, Lange & Voigt: Environmental Geology: Handbook of Field Methods and Case Studies
+* Knödel: Geophysik, Handbuch zur Erkundung des Untergrundes von Deponien und Altlasten (deutsch)
+* Everett, M.: Near Surface Applied Geophysics, Cambridge
 
 # Online material
 
